@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<twitter>
+	<user>
+		<userName>Twitch Name Goes Here</userName>
+		<twitterHandle>@Twitter Handle</twitterHandle>
+		<userStatus>inactive</userStatus>
+	</user>
+	<user>
+		<userName>Twitch Name Goes Here</userName>
+		<twitterHandle>@Twitter Handle</twitterHandle>
+		<userStatus>inactive</userStatus>
+	</user></twitter>
